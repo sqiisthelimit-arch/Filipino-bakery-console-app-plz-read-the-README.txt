@@ -1,0 +1,7 @@
+1. Do not alter the slots or autosave
+2. Do not think them as suspicious, they're legitmate
+3.Do not change their capitalization, they're processed by a program
+4.Do not make changes as it can cause unintended errors
+5.Put BakeryFilipino address should be C:\BakeryFilipino
+
+WE ARE NOT LIABLE FOR SHALL ANY DAMAGES CAUSED
